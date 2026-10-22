@@ -176,7 +176,7 @@ Aspiring IT Support Technician
 
 Portfolio: https://nathanrwatalahportfolio.com
 
-Live Project: https://sites.google.com/view/nathanitkb/home
+Live Project: https://nathanrwatalahportfolio.com/knowledge-base/
 
 GitHub: https://github.com/NathanrWatalah
 
