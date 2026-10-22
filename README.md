@@ -4,7 +4,7 @@ A web-based IT knowledge base designed to help users diagnose and resolve common
 
 
 
- https://sites.google.com/view/nathanitkb/home
+ https://nathanrwatalahportfolio.com/knowledge-base/
 
  Project Overview
 
