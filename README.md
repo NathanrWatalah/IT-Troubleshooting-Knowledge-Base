@@ -168,7 +168,7 @@ Author:
 
 Nathan R. Watalah
 
-Information Communication Technology (ICT) Student
+Information  Technology (IT) Student
 
 Aspiring IT Support Technician
 
