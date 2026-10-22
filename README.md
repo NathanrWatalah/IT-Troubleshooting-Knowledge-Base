@@ -23,7 +23,6 @@ Features
 - Related articles
 - Organized navigation
 - Searchable knowledge base
-- Responsive design using Google Sites
 
  Website Structure
 
@@ -143,12 +142,7 @@ Each troubleshooting guide includes:
 - Information Organization
 - Google Sites
 
- Technologies Used
-
-- Google Sites
-- Google Workspace
-- Web Browser
-- Markdown
+ 
 
  Project Purpose
 
